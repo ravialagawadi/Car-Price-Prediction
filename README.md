@@ -20,9 +20,12 @@ understand the pricing dynamics of a new market.
 
 # About Data set :
 Total Number of columns :26.
-## Symboling: Rating corresponds to the degree to which the auto is more risky than its price indicates.
+Symboling: Rating corresponds to the degree to which the auto is more risky than its price indicates.
+
 make : Manufacturer of cars. 
+
 fuel-type : Type of fuel used in cars (gasoline, diesel ).
+
 aspiration : Type of engine model (standard engine, turbo engine).
 number-of doors : Total number of doors in car.
 body-style : Type of body style (sedan, hatchback,convertible etc ).
