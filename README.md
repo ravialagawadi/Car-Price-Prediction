@@ -18,33 +18,33 @@ to understand how exactly the prices vary with the independent variables. They c
 cars, the business strategy etc. to meet certain price levels. Further, the model will be a good way for management to 
 understand the pricing dynamics of a new market.
 
-About Data set :
-Total Number of columns :26 
+# About Data set :
+Total Number of columns :26.
 Symboling: Rating corresponds to the degree to which the auto is more risky than its price indicates.
-make : Manufacturer of cars 
-fuel-type : Type of fuel used in cars (gasoline, diesel )
+make : Manufacturer of cars. 
+fuel-type : Type of fuel used in cars (gasoline, diesel ).
 aspiration : Type of engine model (standard engine, turbo engine).
-number-of doors : Total number of doors in car
-body-style : Type of body style (sedan, hatchback,convertible etc )
-drive-wheel : the wheels powered by engine,  two wheel drive or four wheel drive 
-engine-location : whether engine located in front or rear
-wheel-base : CD between front and rear wheel 
-length : Total length of car
-width : width of the car 
-height :  height of the car 
-curb-weight : weight of the car without passengers 
-engine-type : Type of engine firing system 
-num-of-cylinders : number of cylinders in engine ( three, four, five,six,eight, twelve)
+number-of doors : Total number of doors in car.
+body-style : Type of body style (sedan, hatchback,convertible etc ).
+drive-wheel : the wheels powered by engine,  two wheel drive or four wheel drive. 
+engine-location : whether engine located in front or rear.
+wheel-base : CD between front and rear wheel. 
+length : Total length of car.
+width : width of the car.
+height :  height of the car. 
+curb-weight : weight of the car without passengers. 
+engine-type : Type of engine firing system. 
+num-of-cylinders : number of cylinders in engine ( three, four, five,six,eight, twelve).
 engine-size : volume of fuel and air that can be pushed through a car cylinders. measured in cc.
-fuel-system : fuel injection types 
-bore : Daimeter of each cylinder 
-stroke : stroke length of the cylinders 
-compression-ratio : ratio between the volume of the cylinder and combution chamber 
-horsepower : power of engine produces
-peak-rpm : maximum rpm of the engine 
-city-mpg : fuel economy in city drive (miles per gallon)
-highway-mpg : fuel economy in highway drive 
-price : price of the car 
+fuel-system : fuel injection types. 
+bore : Daimeter of each cylinder. 
+stroke : stroke length of the cylinders. 
+compression-ratio : ratio between the volume of the cylinder and combution chamber. 
+horsepower : power of engine produces.
+peak-rpm : maximum rpm of the engine. 
+city-mpg : fuel economy in city drive (miles per gallon).
+highway-mpg : fuel economy in highway drive.
+price : price of the car.
 
 
 
