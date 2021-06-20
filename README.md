@@ -46,16 +46,6 @@ city-mpg : fuel economy in city drive (miles per gallon)
 highway-mpg : fuel economy in highway drive 
 price : price of the car 
 
-# Importing Data 
-# Data Preprocessing 
-# Handling Missing values
-# EDA
-# Building ML
-# Model Evaluation
 
 
-# Conclusion :
-       This analysis has shown that the price of an automobile can be confidently predicted from its
-characteristics. In particular, the manufacturer, number of cylinders, horsepower, city MPG, and
-drive wheels have a significant effect on the price of an automobile. Secondary features, such as fuel
-type can help further classify automobiles and determine price groupings to which they belong
+
